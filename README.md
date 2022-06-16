@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-[![My Github Stat](https://github-readme-stats.vercel.app/api?username=Ripat-2345&hide=contribs,prs&show_icons=true&theme=tokyonight)](https://github.com/Ripat-2345)
-
+<a href="https://github.com/Ripat-2345">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ripat-2345&hide=contribs,prs&show_icons=true&theme=tokyonight">
+</a>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ripat-2345&layout=compact&theme=tokyonight)](https://github.com/Ripat-2345) -->
 
 <!-- **Ripat-2345/Ripat-2345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
