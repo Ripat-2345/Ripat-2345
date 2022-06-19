@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="https://github.com/Ripat-2345/Ripat-2345/blob/main/banner.gif" width="1000" height="300">
 
 <a href="https://github.com/Ripat-2345">
   <img src="https://github-readme-stats.vercel.app/api?username=Ripat-2345&hide=contribs,prs&show_icons=true&theme=tokyonight">
