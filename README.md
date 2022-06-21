@@ -6,6 +6,15 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Ripat-2345&hide=contribs,prs&show_icons=true&theme=codeSTACKr">
 </a>
 
+### About me
+
+- 👋 Hi, I’m Ripat Al Safar
+- 👀 I’m interested in Flutter Mobile Application Development
+- 🌱 I’m currently studies of informatics at Mikroksil University
+- 💞️ I’m looking to collaborate on Mobile Development Project
+- 📫 How to reach me 
+email: ripatalsafar@gmail.com
+
 ### Connect with me
 
 <a href = "https://www.instagram.com/ripat_tan/" alt="Instagram"><img src="https://img.icons8.com/fluency//000000/instagram-new.png" height="40" width="40" style= margin-right:15px;/></a>
