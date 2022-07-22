@@ -1,6 +1,6 @@
 ### こんにちは and Hello There 👋
 
-<img src="https://github.com/Ripat-2345/Ripat-2345/blob/main/kaneki.gif" width="1000" height="220">
+<img src="https://github.com/Ripat-2345/Ripat-2345/blob/main/kaneki.gif" width="auto" height="220">
 
 ### About me
 
