@@ -1,7 +1,4 @@
 ### こんにちは and Hello There 👋
-<center>
-<img src="https://github.com/Ripat-2345/Ripat-2345/blob/main/kaneki.gif" width="auto" height="220">
-</center>
 
 ### About me
 
