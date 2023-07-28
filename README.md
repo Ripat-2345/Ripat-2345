@@ -1,6 +1,7 @@
 ### こんにちは and Hello There 👋
-
+<center>
 <img src="https://github.com/Ripat-2345/Ripat-2345/blob/main/kaneki.gif" width="auto" height="220">
+</center>
 
 ### About me
 
@@ -17,6 +18,7 @@ email: ripatalsafar@gmail.com
 <a href = "mailto:ripatalsafar@gmail.com" alt="Email"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" height="40" width="40" style= margin-right:15px;/></a>
 
 ### Languages and Tools
+
 
 <a href="https://www.python.org/" alt="Python"><img src="https://img.icons8.com/color/000000/python--v1.png" width="40" height="40" style= margin-right:15px;/></a>
 <a href="https://dart.dev/" alt="Dart"><img src="https://img.icons8.com/color/000000/dart.png" width="40" height="40" style= margin-right:15px;/></a>
