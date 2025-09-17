@@ -1,39 +1,45 @@
-### こんにちは and Hello There 👋
+<!-- Cozy Earthy Profile README -->
 
-### About me
+<h1 align="center">Hey, I'm Ripat 👋</h1>
+<p align="center">
+  <em>Machine Learning • Data Science • Mobile Development • Web Development</em>
+</p>
 
-- 👋 Hi, I’m Ripat Al Safar
-- 👀 I’m interested in Flutter Mobile Application Development
-- 🌱 I’m currently studies of informatics at Mikroksil University
-- 💞️ I’m looking to collaborate on Mobile Development Project
-- 📫 How to reach me 
-email: ripatalsafar@gmail.com
+---
 
-### Connect with me
-
-<a href = "https://www.instagram.com/ripat_tan/" alt="Instagram"><img src="https://img.icons8.com/fluency//000000/instagram-new.png" height="40" width="40" style= margin-right:15px;/></a>
-<a href = "mailto:ripatalsafar@gmail.com" alt="Email"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" height="40" width="40" style= margin-right:15px;/></a>
-
-### Languages and Tools
+## 🌱 About Me
+- 🔭 Currently exploring **Machine Learning** & **Data Science**  
+- 📱 Building apps with **Flutter** & **Android Development**  
+- 🌐 Crafting experiences through **Web Development**  
+- ☕ Loves cozy code sessions with good coffee  
 
 
-<a href="https://www.python.org/" alt="Python"><img src="https://img.icons8.com/color/000000/python--v1.png" width="40" height="40" style= margin-right:15px;/></a>
-<a href="https://dart.dev/" alt="Dart"><img src="https://img.icons8.com/color/000000/dart.png" width="40" height="40" style= margin-right:15px;/></a>
-<a href="https://flutter.dev/" alt="iFlutter"><img src="https://img.icons8.com/color/000000/flutter.png" width="40" height="40" style= margin-right:15px;/></a>
-<a href="https://git-scm.com/" alt="Git"><img src="https://img.icons8.com/color/000000/git.png" width="40" height="40" style= margin-right:15px; /></a>
+## 🛠️ Tech Stack  
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ripat-2345&layout=compact&theme=tokyonight)](https://github.com/Ripat-2345) -->
+<p>
+  <img src="https://img.shields.io/badge/Python-603F26?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-6C4E31?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-FFEAC5?style=for-the-badge&logo=flutter&logoColor=603F26"/>
+  <img src="https://img.shields.io/badge/Android-6C4E31?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-FFDBB5?style=for-the-badge&logo=dart&logoColor=603F26"/>
+  <img src="https://img.shields.io/badge/Kotlin-603F26?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-FFEAC5?style=for-the-badge&logo=javascript&logoColor=603F26"/>
+</p>
 
-<!-- **Ripat-2345/Ripat-2345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## ☕ Cozy Quote  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- -->
+> *“Simplicity is the soul of efficiency.”* – Austin Freeman  
+
+
+## 🌐 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/ripat-al-safar/"><img src="https://img.shields.io/badge/-LinkedIn-603F26?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:ripatalsafar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-6C4E31?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/ripat_tan/"><img src="https://img.shields.io/badge/-Instagram-FFDBB5?style=for-the-badge&logo=Instagram&logoColor=603F26"/></a>
+</p>
+
+
+<p align="center">
+✨ Thanks for visiting — grab a coffee & enjoy the code ☕
+</p>
